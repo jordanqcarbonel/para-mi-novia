@@ -14,18 +14,18 @@ function App() {
 
   let random = [{
     id: 1,
-    description: "Acepta.",
+    description: "Ese botón no funciona, intenta con el verde. 😏.",
     img: "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif"
   },
   {
     id: 1,
-    description: "Error. Inténtalo de nuevo.",
+    description: "¿Segura? No se tiene esta oportunidad dos veces en la vida.",
     img: "https://i.pinimg.com/originals/77/6b/21/776b215bed3deeef47fd3aa657685a18.gif"
   }
     ,
   {
     id: 2,
-    description: "Tu mouse está fallando, vuelve a elegir.",
+    description: "Honestamente el botón está de adorno.",
     img: "https://www.gifmaniacos.es/wp-content/uploads/2019/05/gatitos-kawaii-gifmaniacos.es-19.gif"
   },
   {
@@ -40,12 +40,12 @@ function App() {
   },
   {
     id: 5,
-    description: "Solo tengo que poner más frases en el código.",
+    description: "Error 404: Variable 'No' no encontrada en el sistema.",
     img: "https://i.pinimg.com/originals/c6/b3/0d/c6b30d1a2dc178aeb92de63295d4ae64.gif"
   },
   {
     id: 6,
-    description: "Lo ves, puedo seguir y seguir.",
+    description: "Estás a 1 clic de que te deje de molestar (por hoy).",
     img: "https://media.tenor.com/N2oqtqaB_G0AAAAi/peach-goma.gif"
   },
   {
@@ -65,7 +65,7 @@ function App() {
   },
   {
     id: 10,
-    description: "No te arrepentirás.",
+    description: "¿Otra vez? Ya me quedé sin frases.",
     img: "https://media.tenor.com/I7KdFaMzUq4AAAAi/peach-goma.gif"
   }]
 
